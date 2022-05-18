@@ -15,10 +15,10 @@ Exemplos de Entrada	Exemplos de Saída
 
 0     9                 PROD = 0
 */
-
+package DesafiosCodigo;
 import java.util.Scanner;
 
-public class Main {
+ class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

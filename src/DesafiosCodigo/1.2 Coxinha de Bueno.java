@@ -21,9 +21,10 @@ Exemplos de Entrada	Exemplos de Saída
 1 50                        0.02
 
 */
+package DesafiosCodigo;
 import java.util.Scanner;
 
-public class Main {
+class Main {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     String input = scan.nextLine();

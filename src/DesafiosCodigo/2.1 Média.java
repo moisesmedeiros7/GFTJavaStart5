@@ -26,7 +26,7 @@ Exemplos de Entrada	Exemplos de Saída
 //Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.Scanner;
 
-public class Main {
+ class Main {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     double nota1 = input.nextDouble();

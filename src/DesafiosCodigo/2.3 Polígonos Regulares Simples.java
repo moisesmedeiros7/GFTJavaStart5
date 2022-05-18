@@ -27,7 +27,7 @@ Prova 1 de Programação de Computadores da UNILA (2015/2)
 // Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.Scanner;
 
-public class Main {
+ class Main {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     String N = scan.nextLine();

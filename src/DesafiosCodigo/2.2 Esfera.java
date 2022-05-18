@@ -21,7 +21,7 @@ Exemplos de Entrada	Exemplos de Saída
 // Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.Scanner;
 
-public class Main {
+ class Main {
     public static void main(String[] args) {
   		Scanner sc = new Scanner(System.in);
  //TODO: Complete os espaços em branco com uma possível solução para o desafio 

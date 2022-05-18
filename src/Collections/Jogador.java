@@ -1,4 +1,4 @@
-package collections;
+package Collections;
 
 
 public class Jogador implements Comparable<Jogador>{
